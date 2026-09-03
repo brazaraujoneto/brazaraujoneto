@@ -3,10 +3,10 @@
 <h1 align="center">Braz Neto</h1>
 <p align="center"><i>@brazneto.tech</i></p>
 
-<!-- Redes Sociais -->
 <div align="center">
   <a href="https://www.linkedin.com/in/braz-neto-78318a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:braz.nobre07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/5592920011593" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://github.com/brazaraujoneto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
@@ -15,7 +15,6 @@
 ### Hi There! - Bem Vindo (a) ao Meu Perfil! 👨🏽‍💻
 
 <div align="left">
-  <!-- Se quiser um avatar ou GIF animado do lado direito, basta colocar o link da imagem no src abaixo. Senão, pode apagar a linha da tag img -->
   <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
   
   🧑🏽‍💻 Focado em soluções para a **Área de Dados** (Análise e Modelagem).<br>
@@ -30,7 +29,6 @@
 ### Main Stack:
 
 <div align="left">
-  <!-- Tecnologias de Dados e Cloud -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
