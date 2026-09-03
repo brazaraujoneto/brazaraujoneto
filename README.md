@@ -21,7 +21,7 @@
   🧑🏽‍💻 Focado em soluções para a **Área de Dados** (Análise e Modelagem).<br>
   🎓 Estudando **Análise e Desenvolvimento de Sistemas**.<br>
   📊 Transformando dados brutos em insights estratégicos.<br>
-  🌱 Aprofundando conhecimentos em Python, SQL e visualização de dados.<br>
+  🌱 Aprofundando conhecimentos em Python, SQL, Cloud e visualização de dados.<br>
   📍 Manaus, AM ❤️<br>
 </div>
 
@@ -30,12 +30,14 @@
 ### Main Stack:
 
 <div align="left">
-  <!-- Tecnologias de Dados -->
+  <!-- Tecnologias de Dados e Cloud -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?&style=for-the-badge&logo=Jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
 </div>
